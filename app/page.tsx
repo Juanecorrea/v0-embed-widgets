@@ -29,7 +29,7 @@ export default function Page() {
 
         <section className="space-y-4">
           <h2 className="text-xl font-medium text-foreground">Reserva tu cita</h2>
-          <CalendlyWidget url="https://calendly.com/juanecorrea100" />
+          <CalendlyWidget url="https://calendly.com/juanecorrea100/30min" />
         </section>
       </div>
     </main>
